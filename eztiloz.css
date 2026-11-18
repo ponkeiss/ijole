@@ -1,0 +1,34 @@
+html{
+    background-color: rgb(173, 173, 250);
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    background-color:rgba(209, 210, 250, 0.989);
+    border: rgb(203, 167, 201) 15px ;
+    text-align: justify;
+    margin: 20px auto;
+    width: 1200px;
+    height: 550px;
+}
+form{
+    text-align: center;
+    color:rgb(152, 106, 0);
+    letter-spacing: .2em;
+    margin: 0;
+}
+h1{
+    text-align:center;
+    color:rgb(120, 90, 0);
+    letter-spacing: .2em;
+    margin: 0;
+}
+h2{
+    text-align:center;
+    color:rgb(53, 42, 10);
+    letter-spacing: .2em;
+    margin: 0;
+}
+.lol{
+    margin: 20px;
+}
